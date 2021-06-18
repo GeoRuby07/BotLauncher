@@ -1,0 +1,12 @@
+token=
+startbot=true
+remoteinfo=false
+server=localhost
+port=3306
+username=root
+password=root
+recorclients=C:\Users
+possclients=C:\Users
+ids=C:\Users
+dbdef=mysql
+dbname=Example
